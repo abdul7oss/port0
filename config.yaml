@@ -1,0 +1,101 @@
+baseURL: "https://arkalim.org"
+languageCode: en-us
+title: Abdul Razim
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: publications
+      name: Publications
+      url: /publications
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    - identifier: notes
+      name: Notes
+      url: https://notes.arkalim.org
+      weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Abdul Razim"
+    subtitle: 👋 I'm Abdul Razim. Final year Electronics Engineering undergraduate student with strong knowledge of computer science fundamentals including data structures, algorithms, object-oriented design. I have extensive background in computer vision and deep-learning through my projects and internships that i did in my three years of college. Hop into the projects section to know more about my work. "
+    imageUrl: "home/l.jpg"
+    imageWidth: 210
+    imageHeight: 200
+    buttons:
+      - name: Resume
+        url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:abdulrazim@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/abdul-razim-87833517a/"
+    - name: "github"
+      url: "https://github.com/abdul7oss"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
