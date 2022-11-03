@@ -14,12 +14,12 @@ cover:
 
 ## Description
 
-This project was done as part of innovation HACKATHON
+This project was completed as part of the HACKINTELLIGENCE HACKATHON for Innovation.
 
-Our face mask detector doesn't use any morphed masked images dataset and the model is accurate. Owing to the use of MobileNetV2 architecture, it is computationally efficient, thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
+Our face mask detector makes no use of modified masked photos, and the model is accurate. It is computationally efficient due to the usage of MobileNetV2 architecture, making it easy to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
 
-This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
+As a result of the Covid-19 outbreak, this system can be employed in real-time applications that require face-mask detection for safety purposes. This project can be combined with embedded systems and used to ensure that public safety requirements are followed in airports, train stations, offices, schools, and public areas.
 ![](/projects/face-landmarks-detection/g.png#center)
 
 ![](/projects/face-landmarks-detection/8.jpg#center)
