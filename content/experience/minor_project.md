@@ -8,6 +8,9 @@ showToc: false
 weight: 301
 --- 
 
+### 🔗 [GitHub](https://github.com/abdul7oss/diabetic-retinopathy.git)
+### 🔗 [Report](https://drive.google.com/file/d/1IvLSNms2Ut63rVioQbXaxZnUXYV7Cl0n/view?usp=share_link)
+
 ### Description
 
 **Guide:** **Prof. Mohd Sharique** (Professor, Dept. of Electronics Engineering, AMU)

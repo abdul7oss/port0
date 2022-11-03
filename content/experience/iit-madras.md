@@ -7,7 +7,7 @@ tags: []
 showToc: false
 weight: 302
 --- 
-### 🔗 [GitHub](https://github.com/arkalim/pytorch-CycleGAN-and-pix2pix/tree/3D_Seg)
+### 🔗 [GitHub](https://github.com/abdul7oss/covid-ct)
 
 ## Description
 **Guide:** **Prof. Mohammed Abdul Qadeer** (Associate Professor, Dept. of Computer Engineering, AMU)

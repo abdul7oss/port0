@@ -7,7 +7,7 @@ draft: false
 showToc: false
 weight: 301
 --- 
-
+### 🔗 [GitHub](https://github.com/abdul7oss/finger-print-domain-adaptation)
 ### Description
 **Guide:** **Prof. Vivek Kanhangad** (Associate Professor, Dept. of Electrical Engineering, IIT Indore)
 
@@ -15,7 +15,7 @@ weight: 301
 mapping between two different fingerprint domains such that low quality fingerprint images converted
 into high quality ones for improving cross sensor fingerprint recognition.
 - Implemented U-Net-based CycleGAN and ResNet-based CycleGAN with 9 residual blocks. ResNet based
-CycleGAN improved fingerprint recognition accuracy by 9%. 
+CycleGAN improved fingerprint recognition accuracy by significantly. 
 <!-- - Developed a **Salesforce app** using SFDX to provide clients with a customized experience within their Salesforce dashboard.
 - Developed a **Slack bot** to send interactive daily notifications to customers, and to allow them to take actions directly from Slack. This eliminated the operational resistance and **increased the adoption of our product by over 50%**.
 - Implemented authorization for Slack integration with BuyerAssist using **React** and **OAuth 2.0**
