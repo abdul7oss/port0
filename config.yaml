@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Abdul Razim"
-    subtitle: 👋 I'm Abdul Razim. Final year Electronics Engineering undergraduate student with strong knowledge of computer science fundamentals including data structures, algorithms, object-oriented design. I have extensive background in computer vision and deep-learning through my projects and internships that i did in my three years of college. Hop into the projects section to know more about my work. "
+    subtitle: 👋 I’m Abdul Razim. Final year Electronics Engineering undergraduate student with solid knowledge of computer science and electronics fundamentals, including data structures, algorithms, digital system design, Computer Networks, object-oriented design, etc. I have an extensive background in computer vision and deep learning through my projects and internships that I did in my three years of college. Hop into the projects section to learn more about my work. 
     imageUrl: "home/l.jpg"
     imageWidth: 210
     imageHeight: 200
@@ -75,7 +75,7 @@ params:
     # - name: "youtube"
     #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
+      url: "https://drive.google.com/file/d/1LOi1URPRZ5RZhDf7dmup2oo4UYzdK9LT/view?usp=share_link"
 
   # text search
   fuseOpts:
