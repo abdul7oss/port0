@@ -55,7 +55,7 @@ params:
     imageHeight: 200
     buttons:
       - name: Resume
-        url: "https://drive.google.com/file/d/17IJd2kEl7mvlqspq-Qt7SsIPvfsD3ZFq/view?usp=share_link"
+        url: "https://drive.google.com/file/d/1_Zlga-l525Pu3VGdnqld2_sIwP2D_Vd8/view?usp=share_link"
 
   # List View
   hideDescriptionInList: false
@@ -75,7 +75,7 @@ params:
     # - name: "youtube"
     #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://drive.google.com/file/d/17IJd2kEl7mvlqspq-Qt7SsIPvfsD3ZFq/view?usp=share_link"
+      url: "https://drive.google.com/file/d/1_Zlga-l525Pu3VGdnqld2_sIwP2D_Vd8/view?usp=share_link"
 
   # text search
   fuseOpts:
