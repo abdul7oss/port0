@@ -49,8 +49,8 @@ params:
   profileMode:
     enabled: true
     title: "Abdul Razim"
-    subtitle: 👋 I’m Abdul Razim. Final year Electronics Engineering undergraduate student with solid knowledge of computer science and electronics fundamentals, including data structures, algorithms, digital system design, Computer Networks, object-oriented design, etc. I have an extensive background in computer vision and deep learning through my projects and internships that I did in my three years of college. Hop into the projects section to learn more about my work. 
-    imageUrl: "home/l.jpg"
+    subtitle: 👋 Greetings! I'm Abdul Razim, a dedicated master's student with a specialization in Computer Engineering. My foundation in computer science runs deep, encompassing a robust understanding of essential areas such as data structures, algorithms, digital system design, computer networks, object-oriented design, and big data concepts. My journey through academia has been enriched by a hands-on exploration of Full Stack Development. This practical experience has been gained through a series of engaging projects and rewarding internships, each contributing to my growth as a proficient developer. If you're curious to delve further into my journey, I invite you to explore the projects section. There, you'll discover more about the impactful work I've been involved in.
+    imageUrl: "home/lll.jpeg"
     imageWidth: 210
     imageHeight: 200
     buttons:
