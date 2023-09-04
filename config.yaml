@@ -69,13 +69,13 @@ params:
     - name: "email"
       url: "mailto:abdulrazim@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdul-razim-87833517a/"
+      url: "https://www.linkedin.com/in/abdulrazim"
     - name: "github"
       url: "https://github.com/abdul7oss"
     # - name: "youtube"
     #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://drive.google.com/file/d/15dxAahsJIskdkurY_eXAnxPi-M1EcAYD/view?usp=share_link"
+      url: "https://drive.google.com/file/d/1Q4vdu3Yc5Fp8tvMTZDTlevFxChJuozzM/view?usp=sharing"
 
   # text search
   fuseOpts:
