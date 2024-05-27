@@ -13,3 +13,14 @@ cover:
 
 ### 🔗 [Link](https://link.springer.com/chapter/10.1007/978-981-19-1012-8_24)
 ### 🔗 [Paper](https://drive.google.com/file/d/1j4-mIRVPgkM4iQZvXsop8BIVT_5NWMwi/view?usp=share_link)
+
+title: "Weather Satellite Tracking with RTL-SDR: NOAA 15 Image Reception and Signal Decoding" 
+# description: "https://ieeexplore.ieee.org/abstract/document/10533107"
+dateString: Jan 2022
+draft: false
+# tags: ["AWS", "AWS SAA", "Certification", "Solutions Architect"]
+weight: 101
+# link: https://link.springer.com/chapter/10.1007/978-981-19-1012-8_24
+### 🔗 [Link](https://link.springer.com/chapter/10.1007/978-981-19-1012-8_24)
+###
+
