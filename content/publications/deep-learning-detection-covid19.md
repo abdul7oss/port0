@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning-Based Efficient Detection of COVID-19"
-dateString: Jan 2022
+dateString: 2022
 draft: false
 weight: 101
 ---

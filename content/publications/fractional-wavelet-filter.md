@@ -1,6 +1,6 @@
 ---
 title: "Fractional Wavelet Filter for Efficient Image Compression on Raspberry Pi Zero"
-dateString: Feb 2024
+dateString: 2024
 draft: false
 weight: 102
 ---
@@ -10,4 +10,4 @@ weight: 102
 Research on implementing a fractional wavelet filter for efficient image compression on the Raspberry Pi Zero.
 
 ### Links
-- [Link](https://ieeexplore.ieee.org/abstract/document/10435988)
+- [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10435988)
