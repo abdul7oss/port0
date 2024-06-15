@@ -1,21 +1,19 @@
 ---
-title: "Research Intern"
-description: "Indian Institute of Technology Indore (IIT-I)"
-dateString: June 2021 - Aug 2021
+title: "Software Development Engineering Intern"
+description: "CAW Studios"
+dateString: June 2022 - Aug 2022
 draft: false
-# tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "MERN Stack", "AWS"]
+tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "MERN Stack", "AWS"]
 showToc: false
 weight: 301
 --- 
-### 🔗 [GitHub](https://github.com/abdul7oss/finger-print-domain-adaptation)
+<!-- ### 🔗 [GitHub](https://github.com/abdul7oss/finger-print-domain-adaptation) -->
 ### Description
-**Guide:** **Prof. Vivek Kanhangad** (Associate Professor, Dept. of Electrical Engineering, IIT Indore)
+- 🚀 Spearheaded impactful projects leveraging React.js, demonstrating proficiency in enterprise-grade software development.
 
-- Performed Fingerprint Domain Adaptation via image to image translation using cycleGANs. Created
-mapping between two different fingerprint domains such that low quality fingerprint images converted
-into high quality ones for improving cross sensor fingerprint recognition.
-- Implemented U-Net-based CycleGAN and ResNet-based CycleGAN with 9 residual blocks. ResNet based
-CycleGAN improved fingerprint recognition accuracy by significantly. 
+- 🚀 Skillfully utilized a tech stack comprising React.js, Redux, Redux-saga, React-Router, Typescript, Cypress E2E testing, React-loadable, and BitBucket.
+
+- 🚀 Navigated the entire Software Development Life Cycle (SDLC), gaining valuable insights into agile and scrum methodologies within a dynamic office environment.
 <!-- - Developed a **Salesforce app** using SFDX to provide clients with a customized experience within their Salesforce dashboard.
 - Developed a **Slack bot** to send interactive daily notifications to customers, and to allow them to take actions directly from Slack. This eliminated the operational resistance and **increased the adoption of our product by over 50%**.
 - Implemented authorization for Slack integration with BuyerAssist using **React** and **OAuth 2.0**

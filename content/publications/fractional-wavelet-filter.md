@@ -1,6 +1,6 @@
 ---
 title: "Fractional Wavelet Filter for Efficient Image Compression on Raspberry Pi Zero"
-dateString: 2024
+dateString: Feb 2024
 draft: false
 weight: 102
 ---

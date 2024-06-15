@@ -1,7 +1,7 @@
 ---
 title: "IoT Based Health Monitoring System"
 # description: "A custom GitHub Action to publish Obsidian notes as a website"
-dateString: Nov 2021
+# dateString: Nov 2021
 draft: false
 # tags: ["AWS", "RegEx", "MkDocs", "GitHub Action", "Docker", "Bash", "TypeScript", "Node.JS"]
 weight: 201
