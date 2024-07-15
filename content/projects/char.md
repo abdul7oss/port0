@@ -1,21 +1,22 @@
 ---
-title: "MNIST Number Detection"
+title: "Vehicle marketplace"
 # description: "A custom GitHub Action to publish Obsidian notes as a website"
-dateString: Aug 2022
+
 draft: false
-# tags: ["AWS", "RegEx", "MkDocs", "GitHub Action", "Docker", "Bash", "TypeScript", "Node.JS"]
+tags: [Node.js, React, Redux, MongoDB, ThreeJS]
 weight: 201
 cover:
-    image: "/projects/char/MNIST_Project_Trim (1).gif"
+    image: "/projects/char/150309393-c5597e12-9a8c-4145-96dd-edd7784c14fb.png"
 ---
 
 
-- Designed Convolutional Neural Network for Numeral Detection using Tensorflow.
-- Performed 5 fold cross validation with 99% validation accuracy.
+- Built an e-commerce marketplace for purchasing vehicles using Node.js, React, Redux, and MongoDB, where
+authenticated users can view and interact with 3D models of vehicles, customize vehicles and place purchase orders.
+- The website also features an admin portal to track and accept orders and a user portal to view and track their orders.
+Payment was implemented using RazorPay API and 3D models were displayed using ThreeJS.
 
 
 
-![](/projects/char/download.png#center)
-
+🔗 [Live Link](https://github.com/abdul7oss/vehicle-marketplace)
 
 

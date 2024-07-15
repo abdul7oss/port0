@@ -1,21 +1,19 @@
 ---
-title: "Pathfinding Visualizer"
-# description: "A custom GitHub Action to publish Obsidian notes as a website"
-dateString: Feb 2022
+title: "SaaS AI Platform"
+# description: "Can computers really understand the human face?"
+# dateString: May 2020
 draft: false
-# tags: ["AWS", "RegEx", "MkDocs", "GitHub Action", "Docker", "Bash", "TypeScript", "Node.JS"]
-weight: 201
+tags: ["Next.js", "React", "Tailwind", "Stripe"]
+showToc: false
+weight: 205
 cover:
-    image: "/projects/djkstra/vid.gif"
----
+    image: "projects/djkstra/img.png"
+--- 
+<!-- ### 🔗 [Colab Notebook](https://colab.research.google.com/drive/1TOw7W_WU4oltoGZfZ_0krpxmhdFR2gmb)
+### 🔗 [Blog Post](../../blog/face-landmarks-detection) -->
 
+## Description
 
-- Developed a visualizer app using react to learn how Dijkstra's Algorithm work.
-- Dijkstra's Algorithm guarantees shortest path among all other pathfinding algorithms.
+Created a versatile Software-as-a-Service (SaaS) platform featuring 5 services: conversation, music, image, video generation, and code generation. Introduced a trial period allowing users to experience these services up to 5 times. Seamlessly integrated a payment model through Stripe for convenient transactions post the trial period.
 
-
-
-<!-- ![](/projects/djkstra/vid.gif#center) -->
-
-
-
+🔗 [Live Link](https://saas-project-ivory.vercel.app/)
