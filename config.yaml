@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Abdul Razim"
-    subtitle: 👋 Greetings! I'm Abdul Razim, a dedicated master's student with a specialization in Computer Engineering. My foundation in computer science runs deep, encompassing a robust understanding of essential areas such as data structures, algorithms, digital system design, computer networks, object-oriented design, and big data concepts. My journey through academia has been enriched by a hands-on exploration of Full Stack Development. This practical experience has been gained through a series of engaging projects and rewarding internships, each contributing to my growth as a proficient developer. If you're curious to delve further into my journey, I invite you to explore the projects section. There, you'll discover more about the impactful work I've been involved in.
+    subtitle: "Welcome to my digital space! I'm a passionate Software Engineer with a knack for full-stack development and cloud technologies. Currently pursuing my MS in Computer Engineering at Stony Brook University, I'm building upon my solid foundation in Electronics Engineering from Aligarh Muslim University. I'm particularly excited about AI/ML applications and creating efficient, scalable solutions. My project portfolio showcases this passion. I'm on the lookout for software engineering roles where I can apply my skills and drive for innovation. Let's connect if you're a fellow tech enthusiast, potential collaborator, or industry professional – I'm always eager to explore new opportunities and ideas in the world of technology!"
     imageUrl: "home/lll.jpeg"
     imageWidth: 210
     imageHeight: 200
